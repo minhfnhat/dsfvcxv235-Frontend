@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life",
+        "title": "Master the Art of Work-Life Harmony"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Master the Art of Work-Life Harmony",
+  "subtitle": "Discover balace – Your Ultimate Guide to a Fulfilling Professional and Personal Life"
+}
